@@ -1,2 +1,14 @@
-tkinter
 customtkinter
+emot
+emoji
+tweet-preprocessor
+flashtext
+transformers
+langdetect
+pandas
+nltk
+scikit-learn
+gensim
+scipy==1.10.1
+seaborn
+matplotlib
